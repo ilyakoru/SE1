@@ -1,4 +1,4 @@
-#include <iostream> // Программа учебная
+#include <iostream> // Программа учебная. Автор работы: Корючкин Илья. КЭ-217. 2025
 
 using namespace std;
 
